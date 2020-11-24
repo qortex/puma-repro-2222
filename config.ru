@@ -1,0 +1,1 @@
+raise 'This is an error from config.ru'
